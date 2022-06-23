@@ -68,7 +68,7 @@ pip install -r requirements.txt
 - Clone this repository using
 
 ```
-git clone https://github.com/dhhruv/Sudoku-Solver.git
+git clone https://github.com/fadebeyond/Sudoku-Solver.git
 ```
 
 **OR**
